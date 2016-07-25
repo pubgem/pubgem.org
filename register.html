@@ -18,17 +18,29 @@ layout: default
     {% for post in site.posts %}
       {% if post.layout == 'minutes' %}
         <li>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.sequence }}</a> {{ post.title }} {{ post.date | date: "%b %-d, %Y" }} (<em>{{ post.status }}</em>)
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.sequence }}</a> {{ post.date | date: "%b %-d, %Y" }} - {{ post.title }} (<em>{{ post.status }}</em>)
         </li>
       {% endif %}
     {% endfor %}
   </ul>
 
-  <h2>Resolutions</h2>
+  <h2>Acts</h2>
 
   <ul class="post-list register-post-list">
     {% for post in site.posts %}
-      {% if post.layout == 'resolution' %}
+      {% if post.layout == 'bill' and post.act != False %}
+        <li>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.sequence }}</a> {{ post.title }} (<em>{{ post.status }}</em>)
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h2>Bills</h2>
+
+  <ul class="post-list register-post-list">
+    {% for post in site.posts %}
+      {% if post.layout == 'bill' and post.act == False %}
         <li>
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.sequence }}</a> {{ post.title }} (<em>{{ post.status }}</em>)
         </li>

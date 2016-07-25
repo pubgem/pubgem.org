@@ -1,10 +1,10 @@
 ---
-layout:     resolution
-title:      An act to obtain co-working space for project development
+layout:     bill
+title:      An act to adopt pubgem.com as a core project
 date:       2016-07-24
 sequence:   "001"
 status:     draft
-permalink:  /register/resolution/001/
+permalink:  /register/bill/001/
 ---
 
 - whereas; and

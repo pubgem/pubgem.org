@@ -1,17 +1,18 @@
 #!/usr/bin/env python
-# new_resolution.py
+# new_bill.py
 
 from datetime import datetime
 import os
 
 TEMPLATE = """\
 ---
-layout:     resolution
+layout:     bill
 title:      {title}
 date:       {date}
 sequence:   "{sequence}"
+act:        False
 status:     draft
-permalink:  /register/resolution/{sequence}/
+permalink:  /register/bill/{sequence}/
 ---
 
 - whereas; and
@@ -29,10 +30,10 @@ if __name__ == "__main__":
 
     datestamp = datetime.today().strftime("%Y-%m-%d")
 
-    seq = len([name for name in os.listdir('resolutions') if os.path.isfile('resolutions/' + name)])
+    seq = len([name for name in os.listdir('bills') if os.path.isfile('bills/' + name)])
     seq = "%03d" % (seq + 1)
 
-    file_name = datestamp + "-resolution-" + seq + ".markdown"
+    file_name = datestamp + "-bill-" + seq + ".markdown"
 
-    with open("resolutions/" + file_name, "w+") as file:
+    with open("bills/" + file_name, "w+") as file:
         file.write(TEMPLATE.format(title=title, date=datestamp, sequence=seq))

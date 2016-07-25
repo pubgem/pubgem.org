@@ -1,10 +1,10 @@
 ---
-layout:     resolution
-title:      An act to raise funds for ongoing expenses
+layout:     bill
+title:      An act to obtain co-working space for project development
 date:       2016-07-24
 sequence:   "003"
 status:     draft
-permalink:  /register/resolution/003/
+permalink:  /register/bill/003/
 ---
 
 - whereas; and

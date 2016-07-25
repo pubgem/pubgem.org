@@ -1,15 +1,15 @@
 ---
 layout:     minutes
 date:       1969-12-31
-sequence:   "001"
+sequence:   "000"
 status:     preliminary
-title:      Officers Meeting
-permalink:  /register/minutes/001/
+title:      Constitutional Congress
+permalink:  /register/minutes/000/
 ---
 
 ## Call to order
 
-A meeting of the Pubgem Foundation Officers was held at LOCATION on 1969-12-31.
+A meeting of the Pubgem Foundation Constitutional Congress was held at LOCATION on 1969-12-31.
 
 ## Attendees
 

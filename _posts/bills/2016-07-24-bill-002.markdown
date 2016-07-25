@@ -1,0 +1,16 @@
+---
+layout:     bill
+title:      An act to raise funds for ongoing expenses
+date:       2016-07-24
+sequence:   "002"
+status:     draft
+permalink:  /register/bill/002/
+---
+
+- whereas; and
+
+Therefore be it resolved:
+
+1. First
+2. Second
+

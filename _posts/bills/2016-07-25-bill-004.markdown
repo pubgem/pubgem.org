@@ -1,10 +1,10 @@
 ---
-layout:     resolution
+layout:     bill
 title:      An act to create staff positions for core projects
-date:       2016-07-24
-sequence:   "002"
+date:       2016-07-25
+sequence:   "004"
 status:     draft
-permalink:  /register/resolution/002/
+permalink:  /register/bill/004/
 ---
 
 - whereas; and
