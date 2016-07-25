@@ -1,0 +1,16 @@
+---
+layout:     resolution
+title:      An act to obtain co-working space for project development
+date:       2016-07-24
+sequence:   "001"
+status:     draft
+permalink:  /register/resolution/001/
+---
+
+- whereas; and
+
+Therefore be it resolved:
+
+1. First
+2. Second
+

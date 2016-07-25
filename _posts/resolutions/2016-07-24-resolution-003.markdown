@@ -1,0 +1,16 @@
+---
+layout:     resolution
+title:      An act to raise funds for ongoing expenses
+date:       2016-07-24
+sequence:   "003"
+status:     draft
+permalink:  /register/resolution/003/
+---
+
+- whereas; and
+
+Therefore be it resolved:
+
+1. First
+2. Second
+

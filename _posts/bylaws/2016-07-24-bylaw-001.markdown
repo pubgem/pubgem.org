@@ -1,0 +1,80 @@
+---
+layout:     bylaw
+date:       2016-07-24
+sequence:   "001"
+title:      A bylaw relating generally to the conduct of the affairs of Pubgem Foundation
+status:     draft
+permalink:  /register/bylaw/001/
+---
+
+<!--
+- https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs04999.html
+- http://opencog.org/wp-content/uploads/2012/02/OpenCog_Foundation_Constitution.pdf
+-->
+
+Be it enacted as a bylaw of the Pubgem Foundation as follows:
+
+## Article 1: Membership
+
+0. **Membership types**. The Foundation shall have two types of membership:
+    - Regular Member: open to any individual with an interest in the Foundation's work - though an individual's membership may be rescinded under certain circumstances.
+    - Senior Member: restricted and comes with additional privileges, including voting as described below.
+2. **Senior membership** can be obtained in multiple ways, including:
+    - Contributing a significant amount of software code to the main branch  of a core project of the Foundation.
+    - Contributing a significant amount of algorithm or architecture designs or other theoretical contributions, that are concretely embodied in a significant amount of software code in the main branch of a core project of the Foundation.
+    - Being invited by the Membership Committee of the Foundation.
+    - Additional ways of obtaining Senior Membership may be decided via majority vote of the Board.
+3. **Voting**.  Senior Members are entitled to vote at the Annual General Referenda of the Foundation and in any email or online ballots which the Board may from time to time conduct.
+4. **Membership Fee**. The Board may choose (via majority vote) to require a membership fee for membership and/or senior membership.
+5. **Termination of Membership**. The Board may, via majority vote, terminate the membership (or downgrade the Senior Membership) of any Member whose behavior is judged unacceptable and detrimental to the goals of the Foundation.
+6. **Resignation**. Notice of resignation of membership must be given to the Secretary via email.
+
+## Article 2: Officers and Board of the Foundation
+
+1. **Principal Officers of the Foundation**. The Principal Officers of the Foundation shall be drawn from the elected members of the Board and shall be a Chairman, a Vice-Chairman, and a Treasurer. The same individual may serve multiple roles, but the Chairman and Treasurer must be different people.
+2. **The Board of the Foundation**. The business of the Foundation shall be conducted by a Board of Directors ("Board") consisting of no more than eight, and no fewer than four, elected members. The Board may, at its discretion, co-opt further members to the Board.
+3. **Membership Committee**. The Board shall nominate a Membership Committee, which may or may not consist of Board members, with the purpose of promptly reviewing applications for membership and senior membership.
+4. **Voting** of the Board may occur during in-person meetings, or via online voting mechanisms such as email or web-based polling. The voting process shall be managed according to Robert's Rules of Order, with the Secretary bearing responsibility for tabulation of votes and reportage of results to the Board. Voting within the Board shall be by a simple majority of the elected members. In the event of a tie, the chairman of the meeting shall be entitled to a casting vote as well as a deliberate vote.
+5. **Minutes**. The Secretary is responsible for recording Minutes including the results of Board votes, and making these Minutes available to Senior Members upon request.
+6. **Quorum**. A quorum shall consist of half of the current elected members of the Board, of whom at least two must be Principal Officers.
+7. Co-opted members shall not be entitled to vote.
+8. **Initial Board**. The founding Board will be considered as if elected on January 1, 2016. The founding Board consists of ... (Chairman, Secretary) and ... (Vice Chairman, Treasurer).
+9. **Board Elections**. An elected Board member, once elected, will serve by default until the Annual General Referendum occurring in the third calendar year after their election. Vacancies on the Board for each year shall be filled by election by email or online ballot, at the Annual General
+Referendum. The results must be published on the Foundation's website. In the event that the number of elected members on the Board falls below four, the Board must organize a special General Referendum, to be held no more than two months from the time at which the number has fallen below four.
+10. **Nominations**. Nominations must carry a statement of the nominee's willingness to serve and must be sent out to the members at least one month before the closing date of the ballot.
+11. **Term of Office**. No elected member may serve for more than three years without re-election.
+12. **Votes of No Confidence**. An individual senior member of the Foundation may instigate a vote of no confidence in a principal officer of the Foundation by submitting a petition to that effect to the Secretary signed by no less than 10 per cent of the senior membership of the Foundation. No more than one vote of no confidence may be called against an officer in one calendar year.
+    - A ballot must be held within 3 months of receipt of such a petition. This may be conducted as an email or online ballot or in an Annual General Referendum and will be decided by a simple majority of those actually voting, provided that the number voting be not less than fifteen percent of the membership. A clear month's notice should be given for the ballot. This notice should include any text supplied with the petition outlining the reasons for the vote. The officer in question should be provided with an opportunity to defend their actions by similarly including a defense with the notice of the vote.
+    - If the vote is carried the principal officer in question must resign immediately from his or her post and the Board and may not re-stand for election to the Board for a period of three years.
+
+## Article 3: Foundation Finances and Assets
+
+1. **Publication of Accounts**. The Balance Sheet and Income Expenditure Account of the Foundation, duly audited, shall be made available to any Senior Member upon request.
+2. **Use of Income and Assets**. The income and property of the Foundation shall be applied solely towards the promotion of the objects of the Foundation, as set forth in this Constitution, and no portion thereof shall be paid or transferred directly or indirectly by way of dividend, bonus or otherwise to Members of the Foundation except by way of reimbursement of authorized expenses legitimately incurred in the Foundation's service or by way of paid employment deemed by the Board to be necessary for the furtherance of the objects of the Foundation. No elected Board member or officer shall be eligible to be paid solely for the fulfilling of any of the normal duties or
+responsibilities of their position.
+3. **Liability**. In the execution of the objects of the Foundation, no Board member or paid employee of the Foundation shall be liable for any loss to the property of the Foundation arising by way of any improper investment made in good faith, providing that professional advice had been taken regarding that investment. In the execution of the objects of the Foundation, no Board member or paid employee of the Foundation shall be liable for any loss to the property of the Foundation arising by way of any other matter or thing other than willful and individual fraud on the part of that person.
+4. **Winding up of the Foundation**. In the event of the winding up of the Foundation, any assets or funds remaining after the discharging of all debts and commitments shall be transferred to an educational or research oriented charity, to be selected by a simple majority of those participating in a general referendum of the Foundation.
+
+## Article 4: General Referendum
+
+1. **Annual General Referendum**. The Foundation shall hold at least one general referendum in each calendar year, with a date announced to the Senior Members via email at least one month in advance. In this general referendum, matters requiring voting (such as election of Board members and consideration of proposed constitution changes) will be announced via email to all Senior
+Members at least 2 weeks prior to vote collection. Vote collection may occur via Senior Members emailing votes to a specified email address, or via Senior Members utilizing an appropriate online polling mechanism, as determined by the Board.
+2. **Proposed Resolutions**. Any member may propose a resolution to be considered in the Annual General Referendum.
+3. **Votes**. Voting on proposals shall be decided by a simple majority of those who vote. In the event of a tie, the Chairman shall be entitled to an additional vote.
+4. **Additional General Referenda**. Other General Referenda may be held at the discretion of the Board, not less than one month's advance notice being given of the date of such a Referendum.
+
+## Article 5: Amendments to the Constitution
+
+1. **Conduct of the Ballot**. Voting on amendments to the Constitution shall be conducted via a General Referendum of the Foundation.
+2. **Votes**. Changes in the Constitution shall require the approval of two-thirds of those actually voting, provided that the number voting be not less than fifteen percent of the members with voting privilege.
+3. **Notification**. The Board of Directors shall give one clear month's notice of the text of proposed amendments.
+4. **Proposals**. Proposals to amend the Constitution may be put forward by the Board. Additionally such proposals may be forwarded by an individual Member to the Board provided that it bears the signature of at least twelve voting members of the Foundation, or at least 20% of the voting members.
+5. **Timescale**. In either case the proposal must be put to the Foundation for voting not later than at the next Annual Referendum provided that time allows for due notice to be given, otherwise at an early General Referendum and no later than the next Annual Referendum.
+
+## Article 6: Website and Software Repository
+
+1. The Foundation shall maintain a website, containing general information about the Foundation, as well as a copy of this Constitution.
+2. The Foundation shall maintain and actively manage a public online repository of open source artificial intelligence software code, together with appropriate online documentation.
+3. The Foundation may maintain multiple artificial software projects; of these, some may be deemed central to the Foundation's work, and will be referred to here as "core projects." The identification of core projects is the responsibility of the OpenCog Foundation board.
+4. Open source hardware projects associated with the Foundation will be handled similarly to software projects, as specified above
+5. For core projects of the Foundation, specific open source licensing terms may be determined or changed via majority vote of the Board. Decisions to license the code of a core project, or portions thereof, to some external entity, may also be made via majority vote of the Board. (Non-core projects may potentially have different licensing restrictions, on a case by case basis.)

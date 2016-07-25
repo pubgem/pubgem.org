@@ -1,0 +1,9 @@
+---
+layout:     minutes
+date:       1969-12-31
+sequence:   "001"
+status:     preliminary
+title:      Officers Meeting
+permalink:  /register/minutes/001/
+---
+
