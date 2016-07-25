@@ -1,7 +1,7 @@
 ---
 layout:     bill
-title:      An act to create staff positions for core projects
-date:       2016-07-25
+title:      An act to obtain co-working space for project development
+date:       2016-07-24
 sequence:   "004"
 status:     draft
 permalink:  /register/bill/004/

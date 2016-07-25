@@ -1,0 +1,20 @@
+---
+layout:     bill
+title:      An act to create a standing advisory committee
+date:       2016-07-25
+sequence:   "006"
+enacted:    False
+status:     draft
+permalink:  /register/bill/006/
+---
+
+## Preamble
+
+- whereas; and
+
+Therefore be it enacted as a bylaw of the Pubgem Foundation as follows:
+
+## Article 1: Something
+
+0. **Blah**. Here is a statement.
+

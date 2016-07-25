@@ -10,17 +10,20 @@ layout:     bill
 title:      {title}
 date:       {date}
 sequence:   "{sequence}"
-act:        False
+enacted:    False
 status:     draft
 permalink:  /register/bill/{sequence}/
 ---
 
+## Preamble
+
 - whereas; and
 
-Therefore be it resolved:
+Therefore be it enacted as a bylaw of the Pubgem Foundation as follows:
 
-1. First
-2. Second
+## Article 1: Something
+
+0. **Blah**. Here is a statement.
 
 """
 
@@ -31,7 +34,7 @@ if __name__ == "__main__":
     datestamp = datetime.today().strftime("%Y-%m-%d")
 
     seq = len([name for name in os.listdir('bills') if os.path.isfile('bills/' + name)])
-    seq = "%03d" % (seq + 1)
+    seq = "%03d" % (seq)
 
     file_name = datestamp + "-bill-" + seq + ".markdown"
 

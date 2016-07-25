@@ -1,6 +1,6 @@
 ---
 layout:     bill
-title:      An act to obtain co-working space for project development
+title:      An act to raise funds for ongoing expenses
 date:       2016-07-24
 sequence:   "003"
 status:     draft

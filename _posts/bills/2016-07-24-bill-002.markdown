@@ -1,6 +1,6 @@
 ---
 layout:     bill
-title:      An act to raise funds for ongoing expenses
+title:      An act to adopt pubgem.com as a core project
 date:       2016-07-24
 sequence:   "002"
 status:     draft
