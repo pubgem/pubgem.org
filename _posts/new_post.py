@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-# new_post.py; derived from http://benjamincongdon.me/blog/2016/03/21/Jekyll-New-Post-Script/
+# new_post.py
+# derived from http://benjamincongdon.me/blog/2016/03/21/Jekyll-New-Post-Script/
 
 from datetime import datetime
 
@@ -23,5 +24,5 @@ if __name__ == "__main__":
 
     file_name = datestamp + "-" + "-".join(title.split(" ")).lower() + ".markdown"
 
-    with open(file_name, "w+") as file:
+    with open("blog/" + file_name, "w+") as file:
         file.write(TEMPLATE.format(title, timestamp, categories))

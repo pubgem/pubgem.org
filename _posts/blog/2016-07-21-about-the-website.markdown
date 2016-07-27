@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Launching the foundation website
+title:      About the foundation website
 date:       2016-07-21 12:09:03
 tags:       website
 ---
