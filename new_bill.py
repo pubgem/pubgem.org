@@ -36,7 +36,7 @@ if __name__ == "__main__":
     seq = len([name for name in os.listdir('bills') if os.path.isfile('bills/' + name)])
     seq = "%03d" % (seq)
 
-    file_name = datestamp + "-bill-" + seq + ".markdown"
+    file_name = "bill-" + seq + ".markdown"
 
-    with open("bills/" + file_name, "w+") as file:
+    with open("_bills/" + file_name, "w+") as file:
         file.write(TEMPLATE.format(title=title, date=datestamp, sequence=seq))

@@ -24,5 +24,5 @@ if __name__ == "__main__":
 
     file_name = datestamp + "-" + "-".join(title.split(" ")).lower() + ".markdown"
 
-    with open("blog/" + file_name, "w+") as file:
+    with open("_posts/" + file_name, "w+") as file:
         file.write(TEMPLATE.format(title, timestamp, categories))

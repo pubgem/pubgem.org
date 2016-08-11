@@ -17,7 +17,7 @@ A meeting of the Pubgem Foundation Constitutional Congress was held at LOCATION 
 
 ## Reports
 
-- Secretary reported the previous meeting's minutes through the Pubgem Foundation Register.  Secretary moves to accept last meeting's minutes.  The motion is CARRIED/AMENDED.
+- 
 
 ## Unfinished Business
 

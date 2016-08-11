@@ -7,7 +7,7 @@ import os
 TEMPLATE = """\
 ---
 layout:     minutes
-title:      {title} Meeting
+title:      Monthly Meeting
 date:       {date}
 sequence:   "{sequence}"
 status:     draft
@@ -16,7 +16,7 @@ permalink:  /register/minutes/{sequence}/
 
 ## Call to order
 
-A meeting of the Pubgem Foundation {title} was held at LOCATION on {date}.
+A monthly meeting of the Pubgem Foundation was held at LOCATION on {date}.
 
 ## Attendees
 
@@ -56,7 +56,7 @@ if __name__ == "__main__":
     seq = len([name for name in os.listdir('minutes') if os.path.isfile('minutes/' + name)])
     seq = "%03d" % (seq)
 
-    file_name = datestamp + "-minutes-" + seq + ".markdown"
+    file_name = "minutes-" + seq + ".markdown"
 
-    with open("minutes/" + file_name, "w+") as file:
+    with open("_minutes/" + file_name, "w+") as file:
         file.write(TEMPLATE.format(title=title, date=datestamp, sequence=seq))

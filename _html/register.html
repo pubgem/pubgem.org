@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /register.html
 ---
 
 <div class="home">
@@ -12,22 +13,10 @@ layout: default
     The Register contains a written record of Pubgem Foundation activities.
   </p>
 
-  <h2>Reports</h2>
-
-  <ul class="post-list register-post-list">
-    {% for post in site.posts %}
-      {% if post.layout == 'report' %}
-        <li>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.sequence }}</a> {{ post.title }} (<em>{{ post.status }}</em>)
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-
   <h2>Minutes</h2>
 
   <ul class="post-list register-post-list">
-    {% for post in site.posts %}
+    {% for post in site.pages %}
       {% if post.layout == 'minutes' %}
         <li>
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.sequence }}</a> {{ post.date | date: "%b %-d, %Y" }} - {{ post.title }} (<em>{{ post.status }}</em>)
@@ -36,10 +25,12 @@ layout: default
     {% endfor %}
   </ul>
 
+{% comment %}
+
   <h2>Resolutions</h2>
 
   <ul class="post-list register-post-list">
-    {% for post in site.posts %}
+    {% for post in site.pages %}
       {% if post.layout == 'resolution' %}
         <li>
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.sequence }}</a> {{ post.title }} (<em>{{ post.status }}</em>)
@@ -48,23 +39,13 @@ layout: default
     {% endfor %}
   </ul>
 
-  <h2>Bills</h2>
+{% endcomment %}
+
+  <h2>Governance</h2>
 
   <ul class="post-list register-post-list">
-    {% for post in site.posts %}
-      {% if post.layout == 'bill' and post.status != 'enacted' %}
-        <li>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.sequence }}</a> {{ post.title }} (<em>{{ post.status }}</em>)
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-
-  <h2>Bylaws</h2>
-
-  <ul class="post-list register-post-list">
-    {% for post in site.posts %}
-      {% if post.layout == 'bill' and post.status == 'enacted' %}
+    {% for post in site.pages %}
+      {% if post.layout == 'bill' %}
         <li>
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.sequence }}</a> {{ post.title }} (<em>{{ post.status }}</em>)
         </li>
