@@ -33,7 +33,7 @@ if __name__ == "__main__":
 
     datestamp = datetime.today().strftime("%Y-%m-%d")
 
-    seq = len([name for name in os.listdir('bills') if os.path.isfile('bills/' + name)])
+    seq = len([name for name in os.listdir('_bills') if os.path.isfile('_bills/' + name)])
     seq = "%03d" % (seq)
 
     file_name = "bill-" + seq + ".markdown"
