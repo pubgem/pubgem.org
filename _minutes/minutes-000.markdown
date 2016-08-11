@@ -15,21 +15,9 @@ A meeting of the Pubgem Foundation Constitutional Congress was held at LOCATION 
 
 - 
 
-## Reports
-
-- 
-
-## Unfinished Business
-
-- 
-
 ## New Business
 
-- 
-
-## Announcements
-
-- 
+- Motion to ratify the Pubgem Foundation Constitution (Bill 000).  The motion PASSES/FAILS.
 
 ## Adjournment
 
